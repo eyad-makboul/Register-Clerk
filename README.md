@@ -1,21 +1,40 @@
 # Register Clerk 🔐
 
-A modern web application built with **Next.js 14/15** and **TypeScript**, featuring a complete and secure authentication system powered by **Clerk**.
+<p align="center">
+  <a href="https://register-clerk.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-bold_green?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  A modern web application featuring a complete and secure authentication system, built with cutting-edge web technologies.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+---
 
 ## 🚀 Features
 
-* **Secure Authentication:** Sign Up, Sign In, and Sign Out flows managed by Clerk.
-* **Social Login:** Support for Google OAuth and traditional Email/Password login.
-* **Protected Routes:** Middleware implementation to protect private pages from unauthenticated users.
-* **User Profiles:** Built-in customizable user profile management.
-* **Modern UI:** Styled using **Tailwind CSS** for a clean, responsive, and adaptive user experience.
+* **Secure Authentication:** Sign Up, Sign In, and Sign Out flows managed entirely by **Clerk**.
+* **Social Login:** Built-in support for Google OAuth and traditional Email/Password login.
+* **Protected Routes:** Middleware implementation to safeguard private pages from unauthenticated access.
+* **Sleek UI Components:** Beautifully designed, accessible, and responsive components powered by **shadcn/ui** and **Tailwind CSS**.
+* **Type Safety:** Robust development experience using **TypeScript**.
 
 ## 🛠️ Tech Stack
 
-* **Framework:** [Next.js](https://nextjs.org/) (App Router)
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Authentication:** [Clerk](https://clerk.com/)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Framework:** Next.js (App Router)
+* **Authentication:** Clerk Auth
+* **UI Components:** shadcn/ui
+* **Styling:** Tailwind CSS
+* **Language:** TypeScript
 
 ---
 
